@@ -8,6 +8,9 @@
     Title="[%=System.LinkedTitle%]"
     Link="/Content/NewTopic1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/NewTopic3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
     Title="Topic"
     Link="/Content/Topic.htm"></TocEntry>
   <TocEntry

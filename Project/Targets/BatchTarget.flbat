@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target"
+  Guid="413670db-85de-4af6-812c-10bdaed92f15">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="!HTML5 No Condensed JS"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="!WH Plus No Condensed JS"
+      Type="WebHelp"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="CHM"
+      Type="HTML Help"
+      Build="true"
+      Publish="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="DITA"
+      Type="DITA"
+      Build="true"
+      Publish="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Eclipse"
+      Type="Eclipse Help"
+      Build="true"
+      Publish="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="EPUB"
+      Type="EPUB"
+      Build="true"
+      Publish="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 Condensed JS"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 Side Nav"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 Top nav"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 Tripane"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Multilingual"
+      Type="HTML5"
+      Build="false"
+      Publish="false"
+      LastBuilt="2019-09-09T13:37:47.5835504-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF"
+      Type="PDF"
+      Build="false"
+      Publish="false"
+      LastBuilt="2019-09-10T06:20:25.0747890-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Runtime Merged Tripane"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="ßæÆØøäöüåäöąčęėįšųūž"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/!HTML5 No Condensed JS"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/!WH Plus No Condensed JS"
+      Type="WebHelp"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/CHM"
+      Type="HTML Help"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/DITA"
+      Type="DITA"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Eclipse"
+      Type="Eclipse Help"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/EPUB"
+      Type="EPUB"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/HTML5 Condensed JS"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/HTML5 Side Nav"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/HTML5 Top nav"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/HTML5 Tripane"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Multilingual"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/PDF"
+      Type="PDF"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Runtime Merged Tripane"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/ßæÆØøäöüåäöąčęėįšųūž"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/!HTML5 No Condensed JS"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/!WH Plus No Condensed JS"
+      Type="WebHelp"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/CHM"
+      Type="HTML Help"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/DITA"
+      Type="DITA"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/Eclipse"
+      Type="Eclipse Help"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/EPUB"
+      Type="EPUB"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/HTML5 Condensed JS"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/HTML5 Side Nav"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/HTML5 Top nav"
+      Type="HTML5"
+      Build="false"
+      Publish="false"
+      LastBuilt="2019-09-09T13:06:37.3466303-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/HTML5 Tripane"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/Multilingual"
+      Type="HTML5"
+      Build="false"
+      Publish="false"
+      LastBuilt="2019-09-09T13:26:51.5931943-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/NewTarget"
+      Type="HTML5"
+      Build="false"
+      Publish="false"
+      LastBuilt="2019-09-09T13:07:39.7199227-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/PDF"
+      Type="PDF"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/Runtime Merged Tripane"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/ßæÆØøäöüåäöąčęėįšųūž"
+      Type="HTML5"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/WebHelp"
+      Type="WebHelp"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/WebHelp Condensed JS"
+      Type="WebHelp"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/WH Plus Condensed JS"
+      Type="WebHelp Plus"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/Word"
+      Type="Word"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Subfolder2/XHTML"
+      Type="Clean XHTML"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/WebHelp"
+      Type="WebHelp"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/WebHelp Condensed JS"
+      Type="WebHelp"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/WH Plus Condensed JS"
+      Type="WebHelp Plus"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/Word"
+      Type="Word"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Subfolder1/XHTML"
+      Type="Clean XHTML"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebHelp"
+      Type="WebHelp"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebHelp Condensed JS"
+      Type="WebHelp"
+      Build="false"
+      Publish="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WH Plus Condensed JS"
+      Type="WebHelp Plus"
+      Build="true"
+      Publish="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Word"
+      Type="Word"
+      Build="true"
+      Publish="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="XHTML"
+      Type="Clean XHTML"
+      Build="false"
+      Publish="false" />
+  </Targets>
+</CatapultBatchTarget>
